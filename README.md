@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a junior Front-End website developer .<br>I'm looking to collaborate on some new coding jobs and get deeper into it . <br>I'm learning  basic JavaScript .<br>Ask me about anything that is related to coding or designing .
+I'm currently a junior Front-End website developer .<br>I'm looking to collaborate on some new coding jobs and get deeper into it . <br>I'm currently learning basic JavaScript .<br>Ask me about anything that is related to coding or designing .
 
 
 ## 🌐 Socials:
