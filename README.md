@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a junior Front-End website developer .<br>I'm looking to collaborate on some new coding jobs and get deeper into it . <br>I'm currently learning basic JavaScript .<br>Ask me about anything that is related to coding or designing .
+I am a skilled front-end developer with knowledge in HTML, CSS, JavaScript, Bootstrap, and SASS. I create visually appealing and responsive websites, and I have an excellent eye for detail. My proficiency in these technologies allows me to build engaging and user-friendly interfaces, making me a valuable asset to any development team.
 
 
 ## 🌐 Socials:
